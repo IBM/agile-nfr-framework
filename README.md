@@ -34,9 +34,10 @@ The Framework uses gamification to allow a project to ensure that Non Functional
 
 The Agile Security Framework provides an over-arching technique to addressing Security within an Agile project. It incorporates two techniques.
 
-### 1.1 Agile Security Method
+### 1.1 The NFR Card Game (Security)
 
-The Agile Security Method provides a means to ensure that Security requirements are thought about during the development cycle.  The technique provides a set of cards which allows a gamification approach to ensure that the developers are considering and addressing the Security requirements.
+The Agile Security Method provides a means to ensure that Security requirements are thought about during the development cycle.  The technique provides a set of cards which allows a gamification approach to ensure that the developers are considering and addressing the Security requirements. You can see an overview of the process by watching this short video: https://www.youtube.com/watch?v=6sxq8ldtZ9M 
+
 
 
 ### 1.2 STRIDE
@@ -50,15 +51,14 @@ STRIDE is a threat classification model developed by Microsoft for thinking abou
   - Denial of service (D.o.S)
   - Elevation of privilege
 
-> Note: Whilst the Agile Security Framework incorporates STRIDE, this method is not documented in detail here, as there is ample documentation for this approach that is widely available.
-
+You can see an overview of STRIDE in action by watching this short video here: https://www.youtube.com/watch?v=wL59RopnnOs
 See here for more details - https://en.wikipedia.org/wiki/STRIDE_(security)
  
-## 2 Wider NFRS 
+## 2 Wider NFRs 
 
 As well as the Security aspects for a project, the Wider NFRS are also addressed within the Agile NFR Framework.  This falls into two sections.
 
-### 2.1 Agile NFR Method
+### 2.1 The NFR Card Game (Wider NFRs)
 
 The Agile NFR Method provides a means to ensure that Non-Functional requirements are thought about during the development cycle.  The technique provides a set of cars which (like the Agile Security Method) allows a gamification approach to ensure that the developers are considering and addressing these NFRs.
 
@@ -85,8 +85,3 @@ To be populated.  The content will be located [here](docs/)
 ## 4 Training
 
 To be populated.  The content will be located [here](howto/)
-
-## 5 References
-
-
-* A. "STRIDE" https://en.wikipedia.org/wiki/STRIDE_(security)
