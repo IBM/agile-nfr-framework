@@ -52,6 +52,7 @@ STRIDE is a threat classification model developed by Microsoft for thinking abou
   - Elevation of privilege
 
 You can see an overview of STRIDE in action by watching this short video here: https://www.youtube.com/watch?v=wL59RopnnOs
+
 See here for more details - https://en.wikipedia.org/wiki/STRIDE_(security)
  
 ## 2 Wider NFRs 
