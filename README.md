@@ -28,7 +28,6 @@ The Framework uses gamification to allow a project to ensure that Non Functional
   - 2.2 [PARADISE](#22-paradise)
 3. [Documentation](#3-documentation)
 4. [Training](#4-training)
-5. [References](#5-references)
 
 ## 1. Agile Security Framework
 
